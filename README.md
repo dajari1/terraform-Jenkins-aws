@@ -96,3 +96,8 @@ ApiVersion: apps/v1
  Search for IAM on the search bar
  Click on Action- security - update IAM role
 
+# Jenkins console output 
+![Image](https://github.com/user-attachments/assets/11aaa8d8-2eca-4ba9-bf28-ecfa2943602d)
+
+# Final output of Jenkins Terraform deployment of nginx server
+![Image](https://github.com/user-attachments/assets/d829c465-ddc6-46dd-bb08-fd3f54fd85e2)
