@@ -88,4 +88,11 @@ the configurations neccessary as shown , after ran the command below to apply th
 
 ApiVersion: apps/v1
 
+# Error:
+ Error: failed to refresh cached credentials, no EC2 IMDS role found
+ # Solution
+ Create an IAM role in AWS, and give it an Administrative access
+ Go to AWS
+ Search for IAM on the search bar
+ Click on Action- security - update IAM role
 
